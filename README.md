@@ -1,5 +1,5 @@
 <div align="center">
-<h2>✨ Hello! My name is Ricardo Steigleder Endres </h2></br>
+<h2>Hi! My name's Ricardo Steigleder Endres </h2></br>
 I'm a front-end/back-end Web Developer working in Brasil, Rio Grande do Sul.</br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoendres/)
