@@ -39,7 +39,8 @@ Sou apaixonado por tecnologia, programação em busca de auxiliar em uma melhora
    <div style="display: inline_block">
    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
- </div><br/>
+ </div>
+    <img align="center" alt="rust" src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" /><br/>
 
 ## Ferramentas de Desenvolvimento:
 
@@ -47,7 +48,9 @@ Sou apaixonado por tecnologia, programação em busca de auxiliar em uma melhora
   <img align="center" alt="code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img align="center" alt="code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt="code" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  <img align="center" alt="code" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+   <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&style=for-the-badge&logo=notepad%2b%2b&logoColor=white" />
+
 </div><br/>
 
 <div> 
