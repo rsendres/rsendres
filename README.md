@@ -9,7 +9,7 @@ Sou estudante de Engenharia de Software e me especializando em Data Science, Mon
 Sou apaixonado por tecnologia, programação em busca de auxiliar em uma melhora na qualidade de vida das pessoas através do meu trabalho. Gosto muito de construir, criar e encontrar soluções, focado em linguagens de programação web e sempre aprendendo e me aperfeiçoando através de cursos, workshops, freelance, eventos, estagio e projetos pessoais.
 
 
-🎓 &nbsp; Estudando Enhengaria de Software na UNOPAR/ANHANGUERA (4º semestre) com previsão de formação 6/2025 <br/>
+🎓 &nbsp; Estudando Enhengaria de Software na UNOPAR/ANHANGUERA (5º semestre) com previsão de formação 6/2025 <br/>
 :speech_balloon: &nbsp; Perfil: Desenvolvedor autodidata com mais de 20 anos de experiência no desenvolvimento de soluções web, com habilidades em front-end e back-end. Experiência em gerenciamento de projetos, resolução de problemas e atendimento ao cliente. Atualmente trabalhando como freelancer para imobiliárias e corretores de imóveis, auxiliando no marketing digital, ranqueamento nas plataformas de pesquisa e construção de websites.
 
 
