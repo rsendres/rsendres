@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia, programação em busca de auxiliar em uma melhora
 
 
   
-  ## Tecnologias que eu uso no meu dia: 
+  ## Tecnologias que eu uso no meu dia a dia: 
  
 
 <div style="display: inline_block">
