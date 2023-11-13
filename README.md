@@ -1,16 +1,17 @@
 <div align="center">
 <h2>Olá! Meu nome é Ricardo Steigleder Endres </h2></br>
-Sou estudante de Engenharia de Software e me especializando em Data Science, Montenegro, Rio Grande do Sul, Brasil.</br>
+Sou estudante de Engenharia de Software e Data Science. 
+</br>Montenegro, Rio Grande do Sul, Brasil.</br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoendres/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardo.endres/)
  </div>
 
-Sou apaixonado por tecnologia, programação em busca de auxiliar em uma melhora na qualidade de vida das pessoas através do meu trabalho. Gosto muito de construir, criar e encontrar soluções, focado em linguagens de programação web e sempre aprendendo e me aperfeiçoando através de cursos, workshops, freelance, eventos, estagio e projetos pessoais.
+Sou apaixonado por tecnologia e dados, busco auxiliar a melhora na qualidade de vida das pessoas através do meu trabalho. Gosto muito de solucionar problemas e criar. Estou sempre aprendendo e me aperfeiçoando através de cursos, workshops, eventos e projetos pessoais.
 
 
-🎓 &nbsp; Estudando Enhengaria de Software na UNOPAR/ANHANGUERA (5º semestre) com previsão de formação 6/2025 <br/>
-:speech_balloon: &nbsp; Perfil: Desenvolvedor autodidata com mais de 20 anos de experiência no desenvolvimento de soluções web, com habilidades em front-end e back-end. Experiência em gerenciamento de projetos, resolução de problemas e atendimento ao cliente. Atualmente trabalhando como freelancer para imobiliárias e corretores de imóveis, auxiliando no marketing digital, ranqueamento nas plataformas de pesquisa e construção de websites.
+🎓 &nbsp; Estudando Graduação em Enhengaria de Software (5º semestre) com previsão de formação 6/2025 e Ciência dos Dados através da Ada Tech<br/>
+:speech_balloon: &nbsp; Perfil: Desenvolvedor autodidata com mais de 20 anos de experiência no desenvolvimento de soluções web, com habilidades em front-end e back-end. Experiência em gerenciamento de projetos, resolução de problemas e atendimento ao cliente. Atualmente trabalhando como freelancer para imobiliárias e corretores de imóveis, auxiliando no marketing digital, SEO e construção de websites.
 
 
 <div align="center">
