@@ -18,8 +18,6 @@ Tenho um perfil focado, curioso, resiliente e dedicado. Capacidade de liderança
 Atualmente trabalhando como freelancer para imobiliárias e corretores de imóveis, auxiliando no marketing digital, SEO e construção de websites.
 <div align="center">
 
-    <br/>
-
 ## Ferramentas de Desenvolvimento:
 
 <div style="display: inline_block">
