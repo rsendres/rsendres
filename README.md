@@ -10,8 +10,8 @@ Sou estudante de Engenharia de Software e Data Science.
 Sou apaixonado por tecnologia e dados, busco auxiliar a melhora na qualidade de vida das pessoas através do meu trabalho. Adoro resolver problemas e inventar soluções que fazem a diferença. Estou sempre aprendendo e me aperfeiçoando através de cursos, workshops, eventos e projetos pessoais.
 
 
-🎓 &nbsp; Estudando Graduação em Enhengaria de Software (5º semestre) com previsão de formação 6/2025 e recentemente concluí o curso de Ciência dos Dados através da Ada Tech<br/>
-:speech_balloon: &nbsp; Perfil: Desenvolvedor autodidata com mais de 20 anos de experiência no desenvolvimento de soluções web, com habilidades em front-end e back-end. Experiência em gerenciamento de projetos, resolução de problemas e atendimento ao cliente. 
+🎓 &nbsp; Estudando Graduação em Enhengaria de Software (6º semestre) com previsão de formação 6/2025 e recentemente concluí o curso de Ciência dos Dados através da Ada Tech<br/>
+:speech_balloon: &nbsp; Perfil: Experiência em suporte, resolução de problemas e atendimento ao cliente. 
 Tenho experiência com análise, visualização de dados e machine learning para fins acadêmicos.
 Possuo experiência trabalhando para grandes multinacionais na área telecomunicações nos setores de vendas e prestação de serviços técnicos. 
 Tenho um perfil focado, curioso, resiliente e dedicado. Capacidade de liderança e com ampla facilidade de circulação entre o tático e operacional.
