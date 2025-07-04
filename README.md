@@ -1,21 +1,17 @@
 <div align="center">
 <h2>Olá! Meu nome é Ricardo Steigleder Endres </h2></br>
-Sou estudante de Engenharia de Software e Data Science. 
 </br>Montenegro, Rio Grande do Sul, Brasil.</br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoendres/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardo.endres/)
  </div>
 
-Sou apaixonado por tecnologia e dados, busco auxiliar a melhora na qualidade de vida das pessoas através do meu trabalho. Adoro resolver problemas e inventar soluções que fazem a diferença. Estou sempre aprendendo e me aperfeiçoando através de cursos, workshops, eventos e projetos pessoais.
+Profissional em transição para a área de Dados e Tecnologia, após 20 anos empreendendo, liderando equipes e gerenciando operações nos setores de eletrônica, telecomunicações, vendas e serviços.
+Atuei diretamente na melhoria de desempenho, redução de desperdícios e otimização de processos, sempre com foco em resultados concretos e mensuráveis — o que hoje fortalece minha visão analítica aplicada à tomada de decisão orientada por dados.
+Sou formado em Engenharia de Software, com formação prática em Ciência de dados pelo programa Santander Coders, com aulas síncronas ministradas por professores de renome na área.
+Durante o programa, desenvolvi projetos com Python, SQL, Pandas, NumPy e Scikit-learn, aplicando técnicas de extração de dados, tratamento de dados, visualização de dados e predição de dados com machine learning.
 
-
-🎓 &nbsp; Estudando Graduação em Enhengaria de Software (6º semestre) com previsão de formação 6/2025 e recentemente concluí o curso de Ciência dos Dados através da Ada Tech<br/>
-:speech_balloon: &nbsp; Perfil: Experiência em suporte, resolução de problemas e atendimento ao cliente. 
-Tenho experiência com análise, visualização de dados e machine learning para fins acadêmicos.
-Possuo experiência trabalhando para grandes multinacionais na área telecomunicações nos setores de vendas e prestação de serviços técnicos. 
-Tenho um perfil focado, curioso, resiliente e dedicado. Capacidade de liderança e com ampla facilidade de circulação entre o tático e operacional.
-Atualmente trabalhando como freelancer para imobiliárias e corretores de imóveis, auxiliando no marketing digital, SEO e construção de websites.
+Uno uma visão estratégica de negócios à capacidade técnica, buscando contribuir com iniciativa, consistência e impacto real por meio da inteligência de dados.
 <div align="center">
 
 ## Ferramentas de Desenvolvimento:
