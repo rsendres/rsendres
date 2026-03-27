@@ -6,12 +6,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardo.endres/)
  </div>
 
-Profissional em transição para a área de Dados e Tecnologia, após 20 anos empreendendo, liderando equipes e gerenciando operações nos setores de eletrônica, telecomunicações, vendas e serviços.
-Atuei diretamente na melhoria de desempenho, redução de desperdícios e otimização de processos, sempre com foco em resultados concretos e mensuráveis — o que hoje fortalece minha visão analítica aplicada à tomada de decisão orientada por dados.
-Sou formado em Engenharia de Software, com formação prática em Ciência de dados pelo programa Santander Coders, com aulas síncronas ministradas por professores de renome na área.
-Durante o programa, desenvolvi projetos com Python, SQL, Pandas, NumPy e Scikit-learn, aplicando técnicas de extração de dados, tratamento de dados, visualização de dados e predição de dados com machine learning.
-
-Uno uma visão estratégica de negócios à capacidade técnica, buscando contribuir com iniciativa, consistência e impacto real por meio da inteligência de dados.
+Graduado em Engenharia de Software com formação prática em Ciência de Dados e pós-graduando em Ciência de Dados Analytics Avançados e Estatística Aplicada.
+Com mais de 18 anos de experiência em operações, serviços e comercial no setor de eletrônica e telecomunicações, assumi desde cedo múltiplas frentes da empresa. Vi na prática o impacto que dados e tecnologia têm na solução de problemas reais e liderei a transformação digital: integrei sistemas, automatizei processos, criei dashboards e passei a apoiar todas as decisões com base em dados.
+Perfil hands-on, analítico e generalista, com visão completa do negócio — da operação ao cliente final.
+Hoje atuo como consultor digital freelance no mercado imobiliário, gerenciando campanhas de aquisição, criando landing pages de alta conversão, implementando rastreamento avançado com Google Tag Manager (GTM) e usando métricas para reduzir custo por aquisição e aumentar vendas reais.
 <div align="center">
 
 ## Ferramentas de Desenvolvimento:
