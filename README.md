@@ -15,7 +15,7 @@ Hoje atuo como consultor digital freelance no mercado imobiliário, gerenciando 
 ## Ferramentas de Desenvolvimento:
 
 <div style="display: inline_block">
-  <img align="center" alt="OPENCODE" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/opencode-text.png" />
+  <img align="center" alt="OPENCODE" whidth="100px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/opencode-text.png" />
   <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
    <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
