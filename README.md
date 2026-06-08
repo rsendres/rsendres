@@ -15,7 +15,7 @@ Hoje atuo como consultor digital freelance no mercado imobiliário, gerenciando 
 ## Ferramentas de Desenvolvimento:
 
 <div style="display: inline_block">
-  <img align="center" alt="PHPSTORM" src="<svg width='32' height='40' viewBox='0 0 32 40' fill='none' xmlns='http://www.w3.org/2000/svg'><g clip-path='url(#clip0_1311_94973)'><path d='M24 32H8V16H24V32Z' fill='#4B4646'/><path d='M24 8H8V32H24V8ZM32 40H0V0H32V40Z' fill='#F1ECEC'/></g><defs><clipPath id='clip0_1311_94973'><rect width='32' height='40' fill='white'/></clipPath></defs></svg>" />
+  <img align="center" alt="PHPSTORM" src="https://opencode.ai/_build/assets/preview-opencode-wordmark-simple-dark-B7-F9tPh.png" />
   <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
    <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
